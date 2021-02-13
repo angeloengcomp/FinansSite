@@ -1,2 +1,2 @@
-# https://angeloengcomp.github.io/FinansSite/
- Criado com Bootstrap 4
+# Site criado para fins de aprendizado.
+ Desenvolvido em Bootstrap 4
